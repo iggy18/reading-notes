@@ -2,7 +2,9 @@
 reading notes for code 102.
 
 ## about me.
-**I am Seth.** I am a student at codefellows. *for now*
+**I am Seth.** I am a student at codefellows. *for now* 
+When i'm asked a question I dont know the answer to, my normal respose is...
+> Lets find out.
 
 ### Growth mindset
 What growth mindset means to me is to remain curious, to give myself permission to be wrong so I can learn from my mistakes, and to let the people around me be a scource of inspiration and guidance.
