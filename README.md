@@ -5,6 +5,8 @@ reading notes for code 102.
 **I am Seth.** I am a student at codefellows. *for now*. When I'm asked a question that I dont know the answer to, my normal respose is...
 > Lets find out.
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 ![relevant sign] (https://images.unsplash.com/photo-1497514964530-228022fdfecd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2090&q=80)
 
 ### Growth mindset
