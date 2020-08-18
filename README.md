@@ -2,8 +2,7 @@
 reading notes for code 102.
 
 ## about me.
-**I am Seth.** I am a student at codefellows. *for now* 
-When i'm asked a question I dont know the answer to, my normal respose is...
+**I am Seth.** I am a student at codefellows. *for now*. When I'm asked a question that I dont know the answer to, my normal respose is...
 > Lets find out.
 
 ### Growth mindset
