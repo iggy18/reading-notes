@@ -15,3 +15,14 @@ What growth mindset means to me is to remain curious, to give myself permission 
 - when I encounter a dificult problem and get stuck, I should step back and ask for help.
 - I should see my peers as inspiration and not be jealous
 - I should learn from critism
+
+Table of contents
+1. [learning markdown.](learning_markdown.md)
+2. coders computer
+3. revisions in the cloud
+4. structure webpages with html
+5.
+6.
+7.
+8.
+9.
