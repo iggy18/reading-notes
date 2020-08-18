@@ -1,7 +1,7 @@
 # What I've learned about markdown.
 
 ## Markdown is a simple language you can use to change the way text looks and add images on github.
-It uses symbols to change text *like this*, **or like this**, ~~but not like this~~ ***but dont go crazy***
+It uses symbols to change text *like this*, **or like this**, ~~not like this~~, ***but hey, dont go nuts***
 >you can even quote people
 
 or add images
