@@ -21,8 +21,9 @@ Table of contents
 2. [Coders Computer.](the_coders_computer)
 3. Revisions in the cloud
 4. structure webpages with html
-5.
-6.
-7.
-8.
-9.
+5. Design web pages with CSS
+6. Dynamic web pages with JavaScript
+7. Computer architechture and logic
+8. Programing with JavaScript
+9. Operators and loops
+10. Career coaching
