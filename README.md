@@ -19,7 +19,7 @@ What growth mindset means to me is to remain curious, to give myself permission 
 Table of contents
 1. [Learning Markdown.](learning_markdown.md)
 2. [Coders Computer.](the_coders_computer)
-3. Revisions in the cloud
+3. [Revisions in the cloud.](git)
 4. structure webpages with html
 5. Design web pages with CSS
 6. Dynamic web pages with JavaScript
