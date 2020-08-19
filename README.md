@@ -17,9 +17,9 @@ What growth mindset means to me is to remain curious, to give myself permission 
 - I should learn from critism
 
 Table of contents
-1. [learning markdown.](learning_markdown.md)
-2. coders computer
-3. revisions in the cloud
+1. [Learning Markdown.](learning_markdown.md)
+2. [Coders Computer.](the_coders_computer)
+3. Revisions in the cloud
 4. structure webpages with html
 5.
 6.
