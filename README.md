@@ -22,7 +22,7 @@ Table of contents
 3. [Revisions in the cloud.](git)
 4. [structure webpages with html.](html.md)
 5. [Design web pages with CSS](css.md)
-6. Dynamic web pages with JavaScript
+6. [Dynamic web pages with JavaScript](js.md)
 7. Computer architechture and logic
 8. Programing with JavaScript
 9. Operators and loops
