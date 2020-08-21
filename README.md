@@ -23,7 +23,6 @@ Table of contents
 4. [structure webpages with html.](html.md)
 5. [Design web pages with CSS](css.md)
 6. [Dynamic web pages with JavaScript](js.md)
-7. Computer architechture and logic
-8. Programing with JavaScript
-9. Operators and loops
-10. Career coaching
+7. [Computer architechture and logic](logic.md)
+8. [Programing with JavaScript](por_w_js.md)
+9. [Operators and loops](opsloops.md)
