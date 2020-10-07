@@ -28,6 +28,7 @@
 - dont load it in the head
 - load it before the closing body tag
 - you can extend JQuery with plugins
+- 
 
 
 
