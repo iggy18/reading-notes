@@ -15,3 +15,7 @@ Table of contents
 9. [Operators and loops](opsloops.md)
 
 ## code 301 - intermediate software development
+ Table of contents
+ 1. 
+ 2. [responsive web design](responive-web-design.md)
+ 3. [flexbox and mustache](flexbox.md)
