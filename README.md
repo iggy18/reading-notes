@@ -21,3 +21,4 @@ Table of contents
  3. [flexbox and mustache](flexbox.md)
  4. 
  5. [heroku](heroku.md)
+ 6. [node, express, and APIs](node.md)
