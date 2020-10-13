@@ -22,3 +22,4 @@ Table of contents
  4. 
  5. [heroku](heroku.md)
  6. [node, express, and APIs](node.md)
+ 7. [APIs](apis.md)
