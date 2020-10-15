@@ -24,3 +24,4 @@ Table of contents
  6. [node, express, and APIs](node.md)
  7. [APIs](apis.md)
  8. [SQL](sql.md)
+ 9. [refactoring](refactoring.md)
