@@ -27,3 +27,4 @@ Table of contents
  9. [refactoring](refactoring.md)
  8. [the call stack](call-stack.md)
  9. [ejs](ejs.md)
+ 10. [componants](componants.md)
