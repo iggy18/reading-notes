@@ -26,5 +26,6 @@ Table of contents
  8. [SQL](sql.md)
  9. [refactoring](refactoring.md)
  8. [the call stack](call-stack.md)
- 9. [ejs](ejs.md)
- 10. [componants](componants.md)
+ 10. [ejs](ejs.md)
+ 11. [componants](componants.md)
+ 12. [update/delete](update-delete.md) 
