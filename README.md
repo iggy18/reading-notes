@@ -28,4 +28,5 @@ Table of contents
  8. [the call stack](call-stack.md)
  10. [ejs](ejs.md)
  11. [componants](componants.md)
- 12. [update/delete](update-delete.md) 
+ 12. [update/delete](update-delete.md)
+ 13. [database normalization](data-norm.md)
