@@ -30,3 +30,4 @@ Table of contents
  11. [componants](componants.md)
  12. [update/delete](update-delete.md)
  13. [database normalization](data-norm.md)
+ 14. [inclusion](inclusion.md)
