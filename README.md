@@ -32,5 +32,4 @@ Table of contents
  13. [database normalization](data-norm.md)
  14. [inclusion](inclusion.md)
 
- ## Code 401 - Advanced Software Development
- 
+## Code 401 - Advanced Software Development
