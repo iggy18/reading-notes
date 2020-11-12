@@ -36,3 +36,4 @@ Table of contents
 1. [introduction](intro4.md)
 2. [in tests we trust](tests.md)
 3. [read and write](read-write.md)
+4. [classes and objects](classes-and-objects.md)
