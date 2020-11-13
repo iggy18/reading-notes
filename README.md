@@ -37,3 +37,4 @@ Table of contents
 2. [in tests we trust](tests.md)
 3. [read and write](read-write.md)
 4. [classes and objects](classes-and-objects.md)
+5. [linked lists](linked-lists.md)
