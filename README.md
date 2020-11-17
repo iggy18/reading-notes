@@ -39,3 +39,4 @@ Table of contents
 4. [classes and objects](classes-and-objects.md)
 5. [linked lists](linked-lists.md)
 6. [random and risk](random-risk.md)
+7. [global and nonlocal](global.md)
