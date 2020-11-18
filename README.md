@@ -38,3 +38,4 @@ Table of contents
 3. [read and write](read-write.md)
 4. [classes and objects](classes-and-objects.md)
 5. [linked lists](linked-lists.md)
+6. [list comprehension](list-comp.md.md)
