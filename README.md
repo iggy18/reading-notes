@@ -41,4 +41,5 @@ Table of contents
 6. [random and risk](random-risk.md)
 7. [global and nonlocal](global.md)
 8. [list comprehension](list-comp.md.md)
-9. [dunder methods and stats](dunder.md)
+9. [dunder (methods and stats](dunder.md)
+10. [numpy](numpy.md)
