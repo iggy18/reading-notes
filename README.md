@@ -45,3 +45,5 @@ Table of contents
 10. [numpy](numpy.md)
 11. 
 12. [trees](trees.md)
+13. [linear regression](linear.md
+)
