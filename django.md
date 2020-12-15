@@ -18,4 +18,4 @@
 
 - Models: Models are Python objects that define the structure of an application's data, and provide mechanisms to manage (add, modify, delete) and query records in the database.
 
-- Templates: A template is a text file defining the structure or layout of a file (such as an HTML page), with placeholders used to represent actual content. 
+- Templates: A template is a text file defining the structure or layout of a file (such as an HTML page), with placeholders used to represent actual content.
