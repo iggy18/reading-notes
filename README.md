@@ -51,3 +51,4 @@ Table of contents
 15. [web scraping](web-scrap.md)
 16. [django](django.md)
 17. [django models](models.md)
+18. [django forms](forms.md)
