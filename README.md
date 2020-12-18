@@ -52,3 +52,5 @@ Table of contents
 16. [django](django.md)
 17. [django models](models.md)
 18. [django forms](forms.md)
+19. [django custom users](custom.md)
+20. [hashtable](hashtable.md)
