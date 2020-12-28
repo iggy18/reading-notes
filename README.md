@@ -56,3 +56,4 @@ Table of contents
 20. [hashtable](hashtable.md)
 21. [docker and api](docker-api.md)
 22. [postgresql](postgresql.md)
+23. [rest best practices](rest-best.md)
